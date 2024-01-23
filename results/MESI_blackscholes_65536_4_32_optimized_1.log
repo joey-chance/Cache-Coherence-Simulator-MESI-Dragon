@@ -1,0 +1,46 @@
+Input: MESI_blackscholes_65536_4_32_optimized
+=========================================
+------------------------------
+1. Overall execution cycle per core
+Core 0: 3557256041593
+Core 1: 3503255508409
+Core 2: 4604259716164
+Core 3: 3563384721678
+------------------------------
+2. Number of compute cycles per core
+Core 0: 10430314
+Core 1: 10383276
+Core 2: 10430338
+Core 3: 10394904
+------------------------------
+3. Number of load/store instructions per core
+Core 0: 2497349
+Core 1: 2490468
+Core 2: 2509057
+Core 3: 2503127
+------------------------------
+4. Number of idle cycles per core
+Core 0: 2731792
+Core 1: 2747119
+Core 2: 3167885
+Core 3: 2758400
+------------------------------
+5. Data cache miss rate for each core
+Core 0: 0.000842493
+Core 1: 0.000945605
+Core 2: 0.00191586
+Core 3: 0.000979575
+------------------------------
+6. Amount of Data traffic in bytes on the bus
+317251488
+------------------------------
+7. Number of invalidations or updates on the bus
+632
+------------------------------
+8. Distribution of accesses to private data versus shared data
+Core 0: Private acceses = 2023171 | Shared accesses = 474178
+Core 1: Private acceses = 2017352 | Shared accesses = 473116
+Core 2: Private acceses = 2034913 | Shared accesses = 474144
+Core 3: Private acceses = 2027120 | Shared accesses = 476007
+================== END ==================
+=========================================

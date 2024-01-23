@@ -1,0 +1,46 @@
+Input: Dragon_blackscholes_65536_1024_64
+=========================================
+------------------------------
+1. Overall execution cycle per core
+Core 0: 3416219278879
+Core 1: 3326801065056
+Core 2: 3968720805027
+Core 3: 3403124431378
+------------------------------
+2. Number of compute cycles per core
+Core 0: 10430314
+Core 1: 10383276
+Core 2: 10430338
+Core 3: 10394904
+------------------------------
+3. Number of load/store instructions per core
+Core 0: 2497349
+Core 1: 2490468
+Core 2: 2509057
+Core 3: 2503127
+------------------------------
+4. Number of idle cycles per core
+Core 0: 2627276
+Core 1: 2627166
+Core 2: 2855041
+Core 3: 2640947
+------------------------------
+5. Data cache miss rate for each core
+Core 0: 0.000336357
+Core 1: 0.000277859
+Core 2: 0.000873236
+Core 3: 0.000317603
+------------------------------
+6. Amount of Data traffic in bytes on the bus
+519633152
+------------------------------
+7. Number of invalidations or updates on the bus
+7512
+------------------------------
+8. Distribution of accesses to private data versus shared data
+Core 0: Private acceses = 2019695 | Shared accesses = 477654
+Core 1: Private acceses = 2014192 | Shared accesses = 476276
+Core 2: Private acceses = 2033331 | Shared accesses = 475726
+Core 3: Private acceses = 2023580 | Shared accesses = 479547
+================== END ==================
+=========================================

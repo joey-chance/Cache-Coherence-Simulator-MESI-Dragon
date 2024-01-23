@@ -1,0 +1,46 @@
+Input: Dragon_bodytrack_65536_2_4
+=========================================
+------------------------------
+1. Overall execution cycle per core
+Core 0: 23465130764431
+Core 1: 25864180379369
+Core 2: 59255702126
+Core 3: 23572719684761
+------------------------------
+2. Number of compute cycles per core
+Core 0: 17729254
+Core 1: 17120545
+Core 2: 17556877
+Core 3: 17140113
+------------------------------
+3. Number of load/store instructions per core
+Core 0: 3270132
+Core 1: 3287252
+Core 2: 117698
+Core 3: 3324919
+------------------------------
+4. Number of idle cycles per core
+Core 0: 11636967
+Core 1: 12030575
+Core 2: 1112970
+Core 3: 11054063
+------------------------------
+5. Data cache miss rate for each core
+Core 0: 0.0242733
+Core 1: 0.0243544
+Core 2: 0.0927798
+Core 3: 0.0232643
+------------------------------
+6. Amount of Data traffic in bytes on the bus
+27294716
+------------------------------
+7. Number of invalidations or updates on the bus
+16852
+------------------------------
+8. Distribution of accesses to private data versus shared data
+Core 0: Private acceses = 2144931 | Shared accesses = 1125201
+Core 1: Private acceses = 2175068 | Shared accesses = 1112184
+Core 2: Private acceses = 89096 | Shared accesses = 28602
+Core 3: Private acceses = 2183048 | Shared accesses = 1141871
+================== END ==================
+=========================================

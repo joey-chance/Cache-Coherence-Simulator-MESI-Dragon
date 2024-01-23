@@ -1,0 +1,46 @@
+Input: Dragon_fluidanimate_16384_1_32
+=========================================
+------------------------------
+1. Overall execution cycle per core
+Core 0: 50345001813772
+Core 1: 42904847849348
+Core 2: 50711707038112
+Core 3: 43711012010364
+------------------------------
+2. Number of compute cycles per core
+Core 0: 11337782
+Core 1: 11290799
+Core 2: 11337671
+Core 3: 11301515
+------------------------------
+3. Number of load/store instructions per core
+Core 0: 2576503
+Core 1: 2407844
+Core 2: 2604189
+Core 3: 2411465
+------------------------------
+4. Number of idle cycles per core
+Core 0: 27670080
+Core 1: 24638215
+Core 2: 27413418
+Core 3: 25450889
+------------------------------
+5. Data cache miss rate for each core
+Core 0: 0.0526042
+Core 1: 0.0495302
+Core 2: 0.0514794
+Core 3: 0.0507924
+------------------------------
+6. Amount of Data traffic in bytes on the bus
+279988448
+------------------------------
+7. Number of invalidations or updates on the bus
+20933
+------------------------------
+8. Distribution of accesses to private data versus shared data
+Core 0: Private acceses = 2109776 | Shared accesses = 466727
+Core 1: Private acceses = 1997972 | Shared accesses = 409872
+Core 2: Private acceses = 2145472 | Shared accesses = 458717
+Core 3: Private acceses = 1950791 | Shared accesses = 460674
+================== END ==================
+=========================================

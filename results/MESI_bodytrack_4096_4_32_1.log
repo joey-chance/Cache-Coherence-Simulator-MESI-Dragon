@@ -1,0 +1,46 @@
+Input: MESI_bodytrack_4096_4_32
+=========================================
+------------------------------
+1. Overall execution cycle per core
+Core 0: 39689246012153
+Core 1: 41286297596655
+Core 2: 63605931445
+Core 3: 41560934231766
+------------------------------
+2. Number of compute cycles per core
+Core 0: 17729254
+Core 1: 17120545
+Core 2: 17556877
+Core 3: 17140113
+------------------------------
+3. Number of load/store instructions per core
+Core 0: 3270132
+Core 1: 3287252
+Core 2: 117698
+Core 3: 3324919
+------------------------------
+4. Number of idle cycles per core
+Core 0: 23998633
+Core 1: 24379206
+Core 2: 1172816
+Core 3: 24557188
+------------------------------
+5. Data cache miss rate for each core
+Core 0: 0.053237
+Core 1: 0.0538787
+Core 2: 0.0624989
+Core 3: 0.0534648
+------------------------------
+6. Amount of Data traffic in bytes on the bus
+257000192
+------------------------------
+7. Number of invalidations or updates on the bus
+1150
+------------------------------
+8. Distribution of accesses to private data versus shared data
+Core 0: Private acceses = 2790689 | Shared accesses = 479443
+Core 1: Private acceses = 2830604 | Shared accesses = 456648
+Core 2: Private acceses = 94329 | Shared accesses = 23369
+Core 3: Private acceses = 2832042 | Shared accesses = 492877
+================== END ==================
+=========================================
